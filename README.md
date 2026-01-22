@@ -18,7 +18,7 @@ I’m Kennitoo, a developer passionate about building tools and projects that ma
 
 # 🏆 GitHub Trophies
 <div align="center">
-  
+
 ![](https://github-profile-trophy.vercel.app/?username=kennito2035&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 **No trophies yet!**
 
@@ -26,17 +26,19 @@ I’m Kennitoo, a developer passionate about building tools and projects that ma
 
 # 🔝 Top Contributed Repo
 <div align="center">
-  ![](https://github-contributor-stats.vercel.app/api?username=kennito2035&limit=5&theme=dark&combine_all_yearly_contributions=true)
-  **Nothing here yet!**
+
+![](https://github-contributor-stats.vercel.app/api?username=kennito2035&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Nothing here yet!**
+
 </div>
 
 # 📈 Profile Views
 <div align="center">
-  
+
 [![](https://visitcount.itsvg.in/api?id=kennito2035&icon=2&color=0)](https://visitcount.itsvg.in)
 **Nothing here yet!**
 
 </div>
 
-### You can help me by donating 🫶
+### --- You can help me by donating 🫶 ---
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ChappiePie)
