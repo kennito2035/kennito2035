@@ -11,7 +11,9 @@ I’m Kennitoo, a developer passionate about building tools and projects that ma
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=kennito2035&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=kennito2035&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kennito2035&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
@@ -20,7 +22,7 @@ I’m Kennitoo, a developer passionate about building tools and projects that ma
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=kennito2035&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-**No trophies yet!**
+**No trophies yet**
 
 </div>
 
@@ -28,7 +30,7 @@ I’m Kennitoo, a developer passionate about building tools and projects that ma
 <div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=kennito2035&limit=5&theme=dark&combine_all_yearly_contributions=true)
-**Nothing here yet!**
+**Nothing here yet**
 
 </div>
 
@@ -36,9 +38,13 @@ I’m Kennitoo, a developer passionate about building tools and projects that ma
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=kennito2035&icon=2&color=0)](https://visitcount.itsvg.in)
-**Nothing here yet!**
+**No views yet**
 
 </div>
 
-### --- You can help me by donating 🫶 ---
+<div align="center">
+
+### *— You can help me by donating 🫶 —*
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ChappiePie)
+
+</div>
