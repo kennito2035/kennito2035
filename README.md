@@ -11,14 +11,18 @@ I’m Kennitoo, a developer passionate about building tools and projects that ma
 
 # 📊 GitHub Stats
 <div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=kennito2035&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=kennito2035&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kennito2035&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 </div>
 
 # 🏆 GitHub Trophies
 <div align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=kennito2035&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 </div>
 
 # 🔝 Top Contributed Repo
@@ -27,7 +31,9 @@ I’m Kennitoo, a developer passionate about building tools and projects that ma
 ---
 
 <div align="center">
+  
 [![](https://visitcount.itsvg.in/api?id=kennito2035&icon=2&color=0)](https://visitcount.itsvg.in)
+
 </div>
 
 ---
