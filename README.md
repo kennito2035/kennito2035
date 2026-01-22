@@ -28,9 +28,11 @@ I’m Kennitoo, a developer passionate about building tools and projects that ma
 ![](https://github-contributor-stats.vercel.app/api?username=kennito2035&limit=5&theme=dark&combine_all_yearly_contributions=true)
 **Nothing here yet!**
 
+# 📈 Profile Views
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=kennito2035&icon=2&color=0)](https://visitcount.itsvg.in)
+**Nothing here yet!**
 
 </div>
 
