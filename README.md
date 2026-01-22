@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 I’m Kennitoo, a developer passionate about building tools and projects that make an impact. I enjoy exploring software development, especially machine learning-related workflows.<br><br>🌱 I’m constantly learning and evolving my skillset, taking on challenges that expand what I can build and contribute to the open-source community.<br><br>⭐ Feel free to check out my repositories, and let’s build something meaningful together!
 
 
@@ -23,6 +23,3 @@ I’m Kennitoo, a developer passionate about building tools and projects that ma
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ChappiePie) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
