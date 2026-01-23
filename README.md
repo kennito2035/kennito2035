@@ -1,5 +1,4 @@
 # 💫 About Me
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kennito2035/kennito2035/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kennito2035/kennito2035/output/github-contribution-grid-snake.svg" />
