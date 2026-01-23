@@ -18,7 +18,7 @@ I’m Kennitoo, a developer passionate about building tools and projects that ma
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=kennito2035&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kennito2035&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=kennito2035&theme=dark&hide_border=false)<br/>
 
