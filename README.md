@@ -27,7 +27,7 @@
 # 🏆 GitHub Trophies
 <div align="center">
 
-![](https://github-trophies.vercel.app/?username=kennito2035&theme=default&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=kennito2035&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
