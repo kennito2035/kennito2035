@@ -27,14 +27,7 @@
 # 🏆 GitHub Trophies
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=kennito2035&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
-# 🔝 Top Contributed Repo
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=kennito2035&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-trophies.vercel.app/?username=kennito2035&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
