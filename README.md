@@ -16,9 +16,7 @@ I’m Kennitoo, a developer passionate about building tools and projects that ma
   <img alt="github-snake" src="github-contribution-grid-snake.svg" />
 </picture>
 
----
-
-![](https://github-readme-stats.vercel.app/api?username=kennito2035&theme=dark&hide_border=false&include_all_commits=true)<br/>
+<br>![](https://github-readme-stats.vercel.app/api?username=kennito2035&theme=dark&hide_border=false&include_all_commits=true)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=kennito2035&theme=dark&hide_border=false)<br/>
 
