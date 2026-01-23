@@ -1,5 +1,12 @@
 # 💫 About Me
-I’m Kennitoo, a developer passionate about building tools and projects that make an impact. I enjoy exploring software and hardware development, especially machine learning-related workflows and embedded systems programming.<br><br>🌱 I’m constantly learning and evolving my skillset, taking on challenges that expand what I can build and contribute to the open-source community.<br><br>⭐ Feel free to check out my repositories, and let’s build something meaningful together!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kennito2035/kennito2035/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kennito2035/kennito2035/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+</picture>
+
+<br>I’m Kennitoo, a developer passionate about building tools and projects that make an impact. I enjoy exploring software and hardware development, especially machine learning-related workflows and embedded systems programming.<br><br>🌱 I’m constantly learning and evolving my skillset, taking on challenges that expand what I can build and contribute to the open-source community.<br><br>⭐ Feel free to check out my repositories, and let’s build something meaningful together!</br>
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kenneth-tomaniog-721089369) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:k.tomaniog2028@gmail.com) 
@@ -10,13 +17,7 @@ I’m Kennitoo, a developer passionate about building tools and projects that ma
 # 📊 GitHub Stats
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kennito2035/kennito2035/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kennito2035/kennito2035/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
-</picture>
-
-<br>![](https://github-readme-stats.vercel.app/api?username=kennito2035&theme=dark&hide_border=false&include_all_commits=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kennito2035&theme=dark&hide_border=false&include_all_commits=true)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=kennito2035&theme=dark&hide_border=false)<br/>
 
