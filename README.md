@@ -10,6 +10,12 @@ I’m Kennitoo, a developer passionate about building tools and projects that ma
 # 📊 GitHub Stats
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kennito2035/kennito2035/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kennito2035/kennito2035/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+</picture>
+
 ![](https://github-readme-stats.vercel.app/api?username=kennito2035&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=kennito2035&theme=dark&hide_border=false)<br/>
